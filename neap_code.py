@@ -1,10 +1,8 @@
 """
-CS230 Final Project on New England Airports Program
+Project on New England Airports Program
 
-Name: Alex Cannistra
-Section: CS230-5-6 Online Async.
+Creator: Alex Cannistra
 Data: New England_Airports
-URL: https://scaling-engine-g47vjwvr55vj2pgr6-8501.app.github.dev/
 
 Description:
 The purpose of this program, the New England Airports Data Explorer,
